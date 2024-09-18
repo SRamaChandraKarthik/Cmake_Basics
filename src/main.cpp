@@ -6,7 +6,7 @@ requires std::integral<T>
 T add(T a, T b)
 {
 
-    return a + b;
+    return a *  b;
 
 }
 
